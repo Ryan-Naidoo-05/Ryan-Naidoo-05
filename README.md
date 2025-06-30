@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ryan Naidoo | Future Data Scientist & Statistical Programming Enthusiast
+# 👋 Hi, I’m Ryan Naidoo | Future Data Scientist & Machine Learning Engineer
 
 **📚 University Student** at [Stellenbosch University](https://www.sun.ac.za/)  
 **🏫 Bachelor of Data Science** with a focus in Computer Science [(BDatSci)](https://www.sun.ac.za/english/datascience/CompulsoryStructure)  
