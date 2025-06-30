@@ -38,7 +38,7 @@ I’m eager to contribute to **data science, statistical programming, or open-so
 
 ---
 
-⭐ **Fun Fact**: I’m currently obsessed with [low level programming and learning how to use pointers in C!].  
+⭐ **Fun Fact**: I’m currently obsessed with artifical intelligence and large language models!   
 
 <!---
 Ryan-Naidoo-05/Ryan-Naidoo-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
