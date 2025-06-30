@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Ryan Naidoo | Future Data Scientist & Statistical Programming Enthusiast
 
-**📚 University Student** at [Stellenbosch University](https://www.sun.ac.za/)  
+**📚 University Student** at [Stellenbosch University](https://www.sun.ac.za/) 
+**🏫 Studying a Bachelor of Data Science with a focal area in Computer Science [(BDatSci)](https://www.sun.ac.za/english/datascience/CompulsoryStructure) 
 **💻 Passionate Coder** | **📊 Data Science Lover** | **🤝 Open to Collaborations**  
 
 ---
 
 ### **🛠️ Technical Skills**
-- **Languages**: Python (Pandas, NumPy, Scikit-learn), R (Tidyverse, ggplot2), Java, C  
+- **Languages**: Python (Pandas, NumPy, Scikit-learn), R (Tidyverse, ggplot2), Java, SQL
 - **Data Science**: Machine Learning, Statistical Modeling, Data Visualization  
 - **Tools**: Git, SQL , RMarkdown  
-- **Currently Learning**: x86 Assembly  
+- **Currently Learning**: x86 Assembly and C
 
 ---
 
