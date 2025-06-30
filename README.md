@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Ryan Naidoo] | Data Science & Statistical Programming Enthusiast
+# 👋 Hi, I’m Ryan Naidoo | Future Data Scientist & Statistical Programming Enthusiast
 
 **📚 University Student** at [Stellenbosch University](https://www.sun.ac.za/)  
 **💻 Passionate Coder** | **📊 Data Science Lover** | **🤝 Open to Collaborations**  
