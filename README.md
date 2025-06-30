@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Ryan Naidoo | Future Data Scientist & Statistical Programming Enthusiast
 
-**📚 University Student** at [Stellenbosch University](https://www.sun.ac.za/) 
-**🏫 Studying a Bachelor of Data Science with a focal area in Computer Science** [(BDatSci)](https://www.sun.ac.za/english/datascience/CompulsoryStructure) 
-**💻 Passionate Coder** | **📊 Data Science Lover** | **🤝 Open to Collaborations**  
-
+**📚 University Student** at [Stellenbosch University](https://www.sun.ac.za/)  
+**🏫 Bachelor of Data Science** with a focus in Computer Science [(BDatSci)](https://www.sun.ac.za/english/datascience/CompulsoryStructure)  
+**💻 Passionate Coder** | **📊 Data Science Lover** | **🤝 Open to Collaborations** 
 ---
 
 ### **🛠️ Technical Skills**
