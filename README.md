@@ -33,7 +33,7 @@ Here are a few things I’ve worked on:
 I’m eager to contribute to **data science, statistical programming, or open-source projects**. If you’re working on something cool, reach out!  
 
 📫 **How to Contact Me**:  
-- LinkedIn: [Ryan Naidoo](https://www.linkedin.com/in/ryan-naidoo-b162222a6)  
+- LinkedIn: [Ryan Naidoo](www.linkedin.com/in/ryan-naidoo-007708375)  
 - Email: ryanpiman@gmail.com 
 
 ---
