@@ -1,4 +1,4 @@
-# Hello! I am Ryan Naidoo | Future Data Scientist & Machine Learning Engineer | Quantatitive Analyst
+# Ryan Naidoo | Future Data Scientist & Machine Learning Engineer | Quantatitive Analyst
 
 **University Student** at [Stellenbosch University](https://www.sun.ac.za/)  
 **Bachelor of Data Science** with a focus in Statistical Learning [(BDatSci)](https://www.sun.ac.za/english/datascience/CompulsoryStructure)  
