@@ -13,7 +13,7 @@
 
 ---
 
-### ** Interests & Goals**
+### **Interests & Goals**
 - Exploring datasets to uncover patterns and tell stories.  
 - Building ML models that solve real-world problems.  
 - Collaborating on **open-source projects** (especially in data science or stats!).  
