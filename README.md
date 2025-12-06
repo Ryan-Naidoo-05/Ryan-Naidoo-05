@@ -5,7 +5,7 @@
 **Junior Software Developer** | **Aspriring Data Scientist** | **Open to Collaborations** 
 ---
 
-### **🛠️ Technical Skills**
+### **Technical Skills**
 - **Languages**: Python (Pandas, NumPy, Scikit-learn), R (Tidyverse, ggplot2), Java, SQL, C, x86 Assembly
 - **Data Science**: Machine Learning, Statistical Modeling, Data Visualization  
 - **Tools**: Git, SQL , RMarkdown  
@@ -23,10 +23,7 @@
 
 ### **My Projects**
 Here are a few things I’ve worked on:  
-- 📈 [Wine Quality Analysis](https://github.com/Ryan-Naidoo-05/Wine-Quality-Analysis): Performed EDA and used Machine Learning to plot a supervised segmentation algorithm onto a wine dataset. Utilised R and RMarkdown, aswell as ggplot, rpart and tidyverse to help me with my study and investigation into what really makes wine good!
-- 📉 Sales forecasting model and intake predictor: Currently in development, coming soon! Using linear regression to model elasticity and performing forecasting on a stock and sales data set for a retail company!
- 
-
+- [Wine Quality Analysis](https://github.com/Ryan-Naidoo-05/Wine-Quality-Analysis): Performed EDA and used Machine Learning to plot a supervised segmentation algorithm onto a wine dataset. Utilised R and RMarkdown, aswell as ggplot, rpart and tidyverse to help me with my study and investigation into what really makes wine good!
 ---
 
 ### **Let’s Collaborate!**  
